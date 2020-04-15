@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="327542c5-4c32-46b8-9f66-fec9887f9b77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y825brOWPvEoqrVDhGrjoVx5n8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Distribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Distribution" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SendEmail" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Distribution" />
+        <item itemvalue="Application.SendEmail" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="327542c5-4c32-46b8-9f66-fec9887f9b77" name="Default Changelist" comment="" />
+      <created>1582309718544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582309718544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="21" key="#Main" timestamp="1586968166296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="21" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1586968166296" />
+    <state x="266" y="43" key="#Project_Structure" timestamp="1582310190861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="266" y="43" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582310190861" />
+    <state x="725" y="113" key="FileChooserDialogImpl" timestamp="1586968215431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="725" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586968215431" />
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1586641548302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586641548302" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1586641548301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586641548301" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1586641548301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586641548301" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1586641548302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586641548302" />
+    <state x="269" y="51" width="940" height="492" key="Maven.ArtifactSearchDialog" timestamp="1582315606290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="269" y="51" width="940" height="492" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582315606290" />
+    <state x="195" y="0" width="1040" height="728" key="SettingsEditor" timestamp="1584806047957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="195" y="0" width="1040" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584806047957" />
+    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583244215192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583244215192" />
+    <state x="423" y="126" width="609" height="367" key="com.intellij.ide.util.TipDialog" timestamp="1586891386662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="423" y="126" width="609" height="367" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586891386662" />
+    <state x="583" y="142" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584805748201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="583" y="142" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1584805748201" />
+    <state x="106" y="43" key="new project wizard" timestamp="1586284556599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="106" y="43" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586284556599" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585343909771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585343909771" />
+  </component>
+</project>
