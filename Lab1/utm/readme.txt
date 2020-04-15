@@ -1,1 +1,1 @@
-Проект тот же, но код другой
+Project is the same, but i change the code
